@@ -1,1 +1,1 @@
-web: gunicorn theboys.theboys.wsgi.py --log-file -
+web: gunicorn theboys.wsgi.py --log-file -
